@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Kambam Haridev]  
+# 👋 Hi, I'm Kambam Haridev.  
 
 🌟 **Competitive Programmer** | 💻 **Web Developer**  
 
