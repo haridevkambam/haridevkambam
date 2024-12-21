@@ -24,7 +24,10 @@
 ---
 
 ## 💼 Projects  
-### 🌍 [TravelHook](#)  
+### 🛒 [GreatStore](https://github.com/haridevkambam/ecommerce-store1)
+An E-Commerce platform built with MERN stack, where users can browse products, add them to cart and place orders.
+
+### 🌍 [TravelNook](#)  
 An Airbnb clone for travelers featuring modern UI/UX, booking functionality, and user authentication. Built using the **MERN Stack**.
 
 ### 🔑 Database Login/Signup  
@@ -33,12 +36,11 @@ A secure login system with encrypted password storage using **C++** and **MySQL*
 ---
 
 ## 📈 Achievements  
-- 🌟 Solved **500+ problems** on competitive programming platforms (Codeforces, LeetCode, CodeChef).  
-- 🏅 **Ranked top 10%** in [specific contest name].  
+- 🌟 Solved **500+ problems** on competitive programming platforms (Codeforces, LeetCode).  
 - 🥇 Managed and led a **publicity team of 50 students** for a college fest.  
 
 ---
 
 ## 📫 Contact Me  
 - **GitHub**: [haridevkambam](https://github.com/haridevkambam)  
-- **Email**: [Your Email Address](mailto:haridevkambam@gmail.com)  
+- **Email**: [haridevkambam@gmail.com](mailto:haridevkambam@gmail.com)  
