@@ -17,9 +17,9 @@
 - **Specialized in**: Algorithms, Data Structures, Competitive Programming  
 
 ### Web Development  
-- **Frontend**: React, Tailwind CSS  
-- **Backend**: Node.js, Express.js  
-- **Database**: MongoDB, MySQL  
+- **Frontend**: React, Tailwind CSS, ShadCn, DaisyUI
+- **Backend**: Node.js, Express.js, Socket.io
+- **Database**: MongoDB, MySQL, Redis
 
 ---
 
@@ -27,8 +27,8 @@
 ### 🛒 [GreatStore](https://github.com/haridevkambam/ecommerce-store1)
 An E-Commerce platform built with MERN stack, where users can browse products, add them to cart and place orders.
 
-### 🌍 [TravelNook](#)  
-An Airbnb clone for travelers featuring modern UI/UX, booking functionality, and user authentication. Built using the **MERN Stack**.
+### 🗪 [Echos](https://github.com/haridevkambam/Echos)  
+A real-time chat application built with the **MERN stack** and **Socket.IO**, featuring instant messaging.
 
 ### 🔑 Database Login/Signup  
 A secure login system with encrypted password storage using **C++** and **MySQL**.
