@@ -30,17 +30,14 @@ An E-Commerce platform built with MERN stack, where users can browse products, a
 ### 🗪 [Echos](https://github.com/haridevkambam/Echos)  
 A real-time chat application built with the **MERN stack** and **Socket.IO**, featuring instant messaging.
 
-### 🔑 Database Login/Signup  
-A secure login system with encrypted password storage using **C++** and **MySQL**.
-
 ---
 
 ## 📈 Achievements  
 - 🌟 Solved **500+ problems** on competitive programming platforms (Codeforces, LeetCode).  
-- 🥇 Managed and led a **publicity team of 50 students** for a college fest.  
+- 🥇 **Codeforces**: [Crab](https://codeforces.com/profile/Crab) .
+- 🥇 **Leetcode**: [Alienist](https://leetcode.com/u/Alienist)
 
 ---
 
 ## 📫 Contact Me  
-- **GitHub**: [haridevkambam](https://github.com/haridevkambam)  
 - **Email**: [haridevkambam@gmail.com](mailto:haridevkambam@gmail.com)  
